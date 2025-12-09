@@ -1,0 +1,5 @@
+{
+  "name": "VPN - Auto Proxy Change",
+  "description": "A robust proxy management dashboard that automatically rotates server selection every 5 minutes. Features a database of 50+ proxies and AI-powered server security analysis.",
+  "requestFramePermissions": []
+}
